@@ -1,4 +1,8 @@
 # Changelog
+* v1.6.8
+    * added option to supress large banner
+* v1.6.7
+    * Check for wordlist in local directory
 * v1.6.6
     * Integrated JSON support thanks to c-f
 * v1.6.5
